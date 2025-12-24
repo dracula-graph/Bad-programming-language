@@ -1,0 +1,22 @@
+\\There is no need to write the even sign when declaring a variable.}}
+
+I16 first 8;
+F16 last 3;
+
+\\"PRINT" and "BOUT" print what's in quotes after the command.
+
+PRINT "first";
+
+\\in operations, first the operation, then the value (does not support recursion)
+
+\\ I implemented this in my second language)
+
+(* first last)
+
+PRINT "first";
+PRINT "Hello ";
+BOUT "lol";
+
+I16 fr "HELP";
+
+PRINT "fr";
